@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ToDoList-API-MVC\\FinalToDoAPI.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\ToDoList-API-MVC-2\\FinalToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ToDoList-API-MVC\\FinalToDoAPI.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\ToDoList-API-MVC-2\\FinalToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ToDoList-API-MVC\\FinalToDoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\ToDoList-API-MVC-2\\FinalToDoAPI.csproj",
         "projectName": "FinalToDoAPI",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ToDoList-API-MVC\\FinalToDoAPI.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\ToDoList-API-MVC-2\\FinalToDoAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ToDoList-API-MVC\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\ToDoList-API-MVC-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
